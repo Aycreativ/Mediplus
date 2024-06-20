@@ -1,0 +1,27 @@
+@media (max-width: 500px){
+    .button-1-div button{
+        background-color: red;
+    }
+    
+    .button-1-div{
+        background-color: yellow;
+    
+    }
+
+    .boxes-div{
+
+        display: flex;
+        flex-direction: column;
+        margin: 0 auto;
+        /* background-color: #fff; */
+        justify-content: space-around;
+        align-items: center;
+        margin-top: -100px;
+        padding-bottom: 100px;
+    }
+
+    /* .menu-2{
+        display: none;
+    } */
+}
+
